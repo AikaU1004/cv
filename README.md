@@ -1,2 +1,2 @@
 # cv
-Learning frontend dev. CV using html
+Learning frontend dev. CV just using html.
